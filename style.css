@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+    
+.line {
+height:6px;
+    background-color: black;
+}
